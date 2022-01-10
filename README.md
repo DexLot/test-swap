@@ -9,8 +9,8 @@ To be more specific, our site supports the Ropsten testnet for the Ethereum netw
 
 Here's a list of faucets you can use:
 
-Avalanche Testnet: https://faucet.avax-test.network/
-Fantom Testnet: https://faucet.fantom.network/
-Binance Testnet: https://testnet.binance.org/faucet-smart
-Polygon Testnet (Mumbai): https://faucet.polygon.technology/
-Ethereum Testnet (Ropsten): https://ropsten.oregonctf.org/ or https://www.moonborrow.com/
+- Avalanche Testnet: https://faucet.avax-test.network/
+- Fantom Testnet: https://faucet.fantom.network/
+- Binance Testnet: https://testnet.binance.org/faucet-smart
+- Polygon Testnet (Mumbai): https://faucet.polygon.technology/
+- Ethereum Testnet (Ropsten): https://ropsten.oregonctf.org/ or https://www.moonborrow.com/
